@@ -46,12 +46,6 @@ Expires on: 31/12/2020"""
     ● DFile  - Give File with Screenshots
     ● Video  - Give File as video without Screenshots]
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-👉 𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝗻𝗮𝗺𝗲 𝗙𝗶𝗹𝗲𝘀​
-
-1. Send/Forward TG File
-2. Reply /rename (New Name with Extension)
-3. Send Custom Thumbnail
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 👉 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼𝘀​
 
 1. Send/Forward YouTube Link
